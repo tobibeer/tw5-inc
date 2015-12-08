@@ -1,9 +1,15 @@
 created: 20151208145609644
 creator: Tobias Beer
-modified: 20151208145619768
+modified: 20151208175326076
 modifier: Tobias Beer
 tags: 
 title: inc-Install
 type: text/vnd.tiddlywiki
 
 <<plugin-install inc>>
+
+!! Version History
+; 0.5.1 / 2015.12.08
+: add docs link to readme
+; 0.5.0 / 2015.12.08
+: initial release
