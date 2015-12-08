@@ -1,6 +1,6 @@
 created: 20151208145132497
 creator: Tobias Beer
-modified: 20151208154130551
+modified: 20151208155536902
 modifier: Tobias Beer
 tags: 
 title: inc-Demo
@@ -15,7 +15,7 @@ Hover over the transcluded tiddler below and find a tiddler toolbar appear to th
 Using the macro in a list widget:
 
 <$macrocall $name="`" text="""<dl>
-<$list filter="[prefix[inc-]sort[title]]">
+<$list filter="inc-Info inc-Configure inc-Install">
 <dt><$text text=<<currentTiddler>>/></dt>
 <dd class="no-before"><<{>></dd>
 </$list>
