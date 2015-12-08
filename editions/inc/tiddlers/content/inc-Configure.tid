@@ -1,6 +1,6 @@
 created: 20151208150813043
 creator: Tobias Beer
-modified: 20151208151253334
+modified: 20151208155842261
 modifier: Tobias Beer
 tags: 
 title: inc-Configure
@@ -12,3 +12,7 @@ Specify the buttons displayed in the on-hover toolbar at $:/plugins/tobibeer/inc
 @@.note
 ''Tip:'' Try removing one or two buttons in the above editor and take another look at the examples.
 @@
+
+!! Styles
+
+The default styles for ''tobibeer/inc'' are defined at <<source $:/plugins/tobibeer/inc/styles>>
