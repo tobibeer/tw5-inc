@@ -1,0 +1,14 @@
+created: 20151208150813043
+creator: Tobias Beer
+modified: 20151208151253334
+modifier: Tobias Beer
+tags: 
+title: inc-Configure
+type: text/vnd.tiddlywiki
+
+Specify the buttons displayed in the on-hover toolbar at $:/plugins/tobibeer/inc/toolbar:
+<$edit-text tiddler="$:/plugins/tobibeer/inc/toolbar" class="tc-edit-texteditor"/>
+
+@@.note
+''Tip:'' Try removing one or two buttons in the above editor and take another look at the examples.
+@@

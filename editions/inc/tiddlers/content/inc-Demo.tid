@@ -1,0 +1,22 @@
+created: 20151208145132497
+creator: Tobias Beer
+modified: 20151208154130551
+modifier: Tobias Beer
+tags: 
+title: inc-Demo
+type: text/vnd.tiddlywiki
+
+Hover over the transcluded tiddler below and find a tiddler toolbar appear to the top-right of it, the transclusion also being mildly highlighted...
+
+`<<{ inc-Install>>`
+
+> <<{ inc-Install>>
+
+Using the macro in a list widget:
+
+<$macrocall $name="`" text="""<dl>
+<$list filter="[prefix[inc-]sort[title]]">
+<dt><$text text=<<currentTiddler>>/></dt>
+<dd class="no-before"><<{>></dd>
+</$list>
+</dl>"""/>

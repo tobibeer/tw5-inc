@@ -1,0 +1,10 @@
+created: 20151208144615451
+creator: Tobias Beer
+modified: 20151208153949380
+modifier: Tobias Beer
+tabs: Info Demo Configure Install
+tags: Plugins Macros
+title: inc
+type: text/vnd.tiddlywiki
+
+<<plugin-docs inc>>

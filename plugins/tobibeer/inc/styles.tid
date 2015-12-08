@@ -1,0 +1,20 @@
+title: $:/plugins/tobibeer/inc/styles
+tags: $:/tags/Stylesheet
+type: text/css
+
+.tb-inc {
+margin:-5px;
+padding:5px;
+}
+.tb-inc:hover {
+background-color:#fcfcfc;
+border-radius:5px;
+}
+.tb-inc-controls{
+margin-top:-2em;
+padding: 5px;
+display:none;
+}
+.tb-inc:hover .tb-inc-controls{
+display:block;
+}
