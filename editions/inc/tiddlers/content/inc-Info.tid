@@ -1,6 +1,6 @@
 created: 20151208144645794
 creator: Tobias Beer
-modified: 20151208153555148
+modified: 20151221052933957
 modifier: Tobias Beer
 tags: 
 title: inc-Info
@@ -10,6 +10,7 @@ The plugin $:/plugins/tobibeer/inc provides:
 
 ; `<<{>>`
 : a macro to include / transclude a tiddler's text with a [[customizable|inc-Configure]] on-hover toolbar
+:: to open, edit, or delete the transcluded tiddler or any other button you may want
 : the first and only parameter is an ''optional'' tiddler title
 :: defaults to `<<currentTiddler>>`
 :: optional, so you can easily use it in a <<x ListWidget>>
