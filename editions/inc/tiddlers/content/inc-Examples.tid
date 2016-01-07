@@ -1,9 +1,10 @@
 created: 20151208145132497
 creator: Tobias Beer
-modified: 20151208155536902
+modified: 20160107113417717
 modifier: Tobias Beer
-tags: 
-title: inc-Demo
+summary: examples for the [[inc]] macro
+tags: inc Examples
+title: inc-Examples
 type: text/vnd.tiddlywiki
 
 Hover over the transcluded tiddler below and find a tiddler toolbar appear to the top-right of it, the transclusion also being mildly highlighted...
