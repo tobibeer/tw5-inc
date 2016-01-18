@@ -2,19 +2,23 @@ title: $:/plugins/tobibeer/inc/styles
 tags: $:/tags/Stylesheet
 type: text/css
 
-.tb-inc {
-margin:-5px;
-padding:5px;
-}
-.tb-inc:hover {
-background-color:#fcfcfc;
-border-radius:5px;
-}
 .tb-inc-controls{
 margin-top:-2em;
 padding: 5px;
 display:none;
 }
-.tb-inc:hover .tb-inc-controls{
+.tb-inc-tab-content .tb-inc{
+margin:0;
+padding:0;
+position:relative;
+}
+.tb-inc-tab-content .tb-inc-controls{
+position:absolute;
+margin-top:-5px;
+right:0;
+top:0;
+}
+.tb-inc:hover > .tb-inc-controls{
 display:block;
+float:right;
 }
